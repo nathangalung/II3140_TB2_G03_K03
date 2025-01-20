@@ -6,15 +6,14 @@ Anggota:
 - Bryan P. Hutagalung (18222130)
 - Timothy Haposan Simanjuntak (18222137)
 
-## Getting Started
+## Link Submission
 
-This project is a starting point for a Flutter application.
+Link Figma: https://s.hmif.dev/Figma_UAS_II3140_K03_G03
 
-A few resources to get you started if this is your first Flutter project:
+Link Github: https://s.hmif.dev/Github_UAS_II3140_K03_G03
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Link Laporan: https://s.hmif.dev/Laporan_UAS_II3140_K03_G03
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Link Video: https://s.hmif.dev/Video_UAS_II3140_K03_G03
+
+Link App: https://s.hmif.dev/Mobile_UAS_II3140_K03_G03
