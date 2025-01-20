@@ -1,0 +1,17 @@
+# flutter_native_splash-production.yaml
+flutter_native_splash:
+  color: "#ffffff"
+  image: assets/img/logoSplash.png # ini logo splash screen
+  branding: assets/img/bg2Page.png # ini background image
+  branding_bottom_padding: 24
+  color_dark: "#121212"
+  image_dark: assets/img/logoSplash.png
+  branding_dark: assets/img/bg2Page.png
+
+  android_12:
+    image: assets/img/logoSplash.png
+    icon_background_color: "#ffffff"
+    image_dark: assets/img/logoSplash.png
+    icon_background_color_dark: "#121212"
+
+  web: false

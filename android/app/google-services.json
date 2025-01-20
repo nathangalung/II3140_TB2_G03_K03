@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "820949642317",
+    "project_id": "curiosityclash-86972",
+    "storage_bucket": "curiosityclash-86972.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:820949642317:android:b6016e583fa541c3140004",
+        "android_client_info": {
+          "package_name": "com.feri.curiosityclash.curiosityclash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTqkc_rNDXljCkrKYK9PlqoaGx_vlwsuc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
