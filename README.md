@@ -1,6 +1,10 @@
-# curiosityclash
+# II3140_TB2_K03_G03
 
-A new Flutter project.
+Tugas UAS II3140 - Pengembangan Aplikasi Web dan Mobile
+
+Anggota:
+- Bryan P. Hutagalung (18222130)
+- Timothy Haposan Simanjuntak (18222137)
 
 ## Getting Started
 
